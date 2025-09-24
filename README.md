@@ -33,7 +33,7 @@ It includes features that improve movement, targeting, and overall battlefield a
 ## ⚙️ Setup Instructions
 
 1. **Download** the latest build from the release section.  
-   [![Download](https://img.shields.io/badge/Download-purple)](../../release)  
+   [![Download](https://img.shields.io/badge/Download-purple)](../../releases)  
 2. **Unpack** the archive to any folder on your PC.  
 3. **Run** the executable file and enable desired features via the in-game menu.  
 
