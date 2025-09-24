@@ -6,19 +6,20 @@ It includes features that improve movement, targeting, and overall battlefield a
 
 ---
 
-## 🔑 Core Functions
+## 📝 Function Descriptions
 
-### Orbwalker  
-Automates attack–move combos for smoother trades and efficient kiting.
-
-### Zoom Control  
-Adjust camera distance freely to expand your view of the map.
-
-### Last-Hit Helper  
-Improves farming consistency by assisting with precise minion kills.
-
-### Harass Mode  
-Apply continuous pressure to your lane opponent with optimized pokes.
+| 🔍 Function Name      | 📝 Description                                                                 | 🐧 Windows |
+|----------------------|--------------------------------------------------------------------------------|:----------:|
+| AutoSkillCast        | Automatically selects and casts abilities as required during play.              | ✅         |
+| EnemyTracker         | Tracks the location of enemy players and predicts movement for map awareness.   | ✅         |
+| LastHitBot           | Optimizes gold farming by executing last-hits on minions automatically.        | ✅         |
+| WardVisionAlert      | Provides alerts when enemy wards are placed nearby.                            | ✅         |
+| SkinCustomizer       | Allows live skin changes right inside your current game session.                | ✅         |
+| HotkeyProfiles       | Lets you save/configure multiple control profiles for different scenarios.      | ✅         |
+| InGameOverlay        | Adds a transparent overlay that displays computed data and timers.              | ✅         |
+| SafeModeToggle       | Instantly disables advanced/risky features to enhance security.                 | ✅         |
+| AutoUpdateLoader     | Ensures the loader gets the latest secure modules and security patches.         | ✅         |
+| LogFileOutput        | Records all activity for audit, debugging, or analysis.                        | ✅         |
 
 ---
 ![img](image.png)
@@ -32,7 +33,7 @@ Apply continuous pressure to your lane opponent with optimized pokes.
 ## ⚙️ Setup Instructions
 
 1. **Download** the latest build from the release section.  
-   [![Download](https://img.shields.io/badge/Download-Trainer-purple)](../../release)  
+   [![Download](https://img.shields.io/badge/Download-purple)](../../release)  
 2. **Unpack** the archive to any folder on your PC.  
 3. **Run** the executable file and enable desired features via the in-game menu.  
 
