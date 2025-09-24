@@ -22,11 +22,11 @@ It includes features that improve movement, targeting, and overall battlefield a
 | LogFileOutput        | Records all activity for audit, debugging, or analysis.                        | ✅         |
 
 ---
-![img](image.png)
+![img](assets/image.png)
 
-![img](image2.png)
+![img](assets/image2.png)
 
-![img](image3.png)
+![img](assets/image3.png)
 
 ---
 
