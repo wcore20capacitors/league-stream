@@ -1,8 +1,6 @@
-# League of Legends Trainer
+# League of Legends
 
-![LoL Trainer Logo](logo.png)
-
-Welcome to the **League of Legends trainer project**!  
+Welcome to the **League of Legends cheats project**!  
 Built in C++, this tool is designed to **assist with gameplay mechanics** in *League of Legends*.  
 It includes features that improve movement, targeting, and overall battlefield awareness — working like a **virtual assistant for your champion**.
 
@@ -21,6 +19,13 @@ Improves farming consistency by assisting with precise minion kills.
 
 ### Harass Mode  
 Apply continuous pressure to your lane opponent with optimized pokes.
+
+---
+![img](image.png)
+
+![img](image2.png)
+
+![img](image3.png)
 
 ---
 
