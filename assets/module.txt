@@ -13,3 +13,4 @@ Record retention schedule
 Plan career paths
 Note currency exposure
 Write summary report
+Note overfit warning
