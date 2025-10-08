@@ -6,3 +6,4 @@ Evaluate automation options
 Record acceptance tests
 Check error handling
 Note sprint outcome
+Summarize zone updates
