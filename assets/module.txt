@@ -12,3 +12,4 @@ Note improvement ideas
 Record retention schedule
 Plan career paths
 Note currency exposure
+Write summary report
