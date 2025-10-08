@@ -5,3 +5,4 @@ Summarize version bumps
 Evaluate automation options
 Record acceptance tests
 Check error handling
+Note sprint outcome
