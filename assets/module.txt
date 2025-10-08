@@ -1,4 +1,1 @@
-Note identity checks
-Draft integration plan
-Note currency exposure
-Reevaluate requirements
+Record DB query logs
