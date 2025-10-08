@@ -1,6 +1,1 @@
-Record progress KPIs
-Clarify design goals
-Check API gateway
-Draft documentation outline
-Update glossary
-Draft onboarding checklist
+Draft error codes
