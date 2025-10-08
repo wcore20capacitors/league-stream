@@ -1,16 +1,1 @@
-Draft SLA updates
-Draft HIPAA notes
-Draft roadmap sketch
-Plan website refresh
-Note decision log
-Record shift handovers
-Note funding options
-Capture moodboard items
-List influencer mentions
-Draft style samples
-Analyze customer data
-Draft staging plan
-Draft export compliance
-Update P&L sheet
-Simplify configuration
-List missing translations
+Update SSL chain
