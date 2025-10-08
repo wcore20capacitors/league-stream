@@ -1,5 +1,1 @@
-Summarize zone updates
-Update logging sinks
-Update governance notes
-Plan workshop agenda
-Note investment options
+Expand integration tests
