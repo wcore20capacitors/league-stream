@@ -3,3 +3,4 @@ Summarize restore drills
 Record procurement steps
 Draft mitigation guide
 Draft policy updates
+Note content review
