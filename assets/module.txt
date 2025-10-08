@@ -19,3 +19,4 @@ Log daily progress
 Draft mitigation guide
 Plan rebranding steps
 Note winner list
+Record media queries
