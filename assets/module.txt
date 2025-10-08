@@ -16,3 +16,4 @@ Write summary report
 Note overfit warning
 Check breaking changes
 Log daily progress
+Draft mitigation guide
