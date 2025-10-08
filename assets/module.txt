@@ -3,3 +3,4 @@ Update annotation tool
 Draft celebration notes
 Evaluate automation options
 Check ISO documents
+Note deprecation warnings
