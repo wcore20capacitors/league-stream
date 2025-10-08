@@ -7,3 +7,4 @@ Note shadow test
 Plan career paths
 Record key metrics
 Draft weekly digest
+Summarize CI logs
