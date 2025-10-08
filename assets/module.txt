@@ -7,3 +7,4 @@ Draft retro notes
 Add unit test coverage
 Record feature votes
 Summarize restore drills
+Note firewall configs
