@@ -1,2 +1,3 @@
 Update board minutes
 Record user stories
+Improve modularity
