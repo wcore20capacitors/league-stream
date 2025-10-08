@@ -10,3 +10,4 @@ Draft HIPAA notes
 Note DPA clauses
 Summarize trade risks
 Record CCPA checks
+Summarize version bumps
