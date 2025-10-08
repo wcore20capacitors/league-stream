@@ -2,3 +2,4 @@ Update board minutes
 Record user stories
 Improve modularity
 Draft blog outline
+Summarize version bumps
