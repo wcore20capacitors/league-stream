@@ -9,3 +9,4 @@ Capture moodboard items
 List influencer mentions
 Draft style samples
 Analyze customer data
+Draft staging plan
