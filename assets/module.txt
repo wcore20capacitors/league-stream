@@ -13,3 +13,4 @@ Draft staging plan
 Draft export compliance
 Update P&L sheet
 Simplify configuration
+List missing translations
