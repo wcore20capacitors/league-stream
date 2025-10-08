@@ -1,3 +1,4 @@
 Draft leadership notes
 Draft resilience test
 Summarize industry news
+Summarize version bumps
