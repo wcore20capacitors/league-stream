@@ -2,3 +2,4 @@ Note trending topics
 List UI components
 Schedule publishing plan
 Record load test data
+Add privacy considerations
