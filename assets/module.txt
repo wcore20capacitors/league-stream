@@ -1,1 +1,2 @@
 Record arbitration steps
+Note threshold breaches
