@@ -1,2 +1,3 @@
 Record DB query logs
 Clarify design goals
+Note lessons learned
