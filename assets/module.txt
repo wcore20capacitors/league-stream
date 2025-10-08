@@ -1,3 +1,4 @@
 Record progress KPIs
 Clarify design goals
 Check API gateway
+Draft documentation outline
