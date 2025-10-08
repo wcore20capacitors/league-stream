@@ -2,3 +2,4 @@ Record auth logs
 Draft release checklist
 Record event calendar
 Review MFA adoption
+Update legal references
