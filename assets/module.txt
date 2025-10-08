@@ -5,3 +5,4 @@ Draft reproducibility plan
 Review logo sketches
 Note shadow test
 Plan career paths
+Record key metrics
