@@ -12,3 +12,4 @@ Summarize trade risks
 Record CCPA checks
 Summarize version bumps
 Recheck boundary cases
+Update glossary
