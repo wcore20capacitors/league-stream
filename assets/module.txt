@@ -1,2 +1,3 @@
 Note identity checks
 Draft integration plan
+Note currency exposure
