@@ -1,5 +1,1 @@
-Summarize restore drills
-Note identity checks
-Summarize top requests
-Update session rules
-Plan rollback procedure
+Record F1 score
