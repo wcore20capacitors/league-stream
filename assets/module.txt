@@ -6,3 +6,4 @@ Draft migration checklist
 Draft retro notes
 Add unit test coverage
 Record feature votes
+Summarize restore drills
