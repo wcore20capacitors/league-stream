@@ -1,13 +1,1 @@
-Update pricing table
-Draft recovery notes
-Update status of tasks
-Draft reproducibility plan
-Review logo sketches
-Note shadow test
-Plan career paths
-Record key metrics
-Draft weekly digest
-Summarize CI logs
-Record budget estimates
-Draft recovery notes
-Log daily progress
+Record progress KPIs
