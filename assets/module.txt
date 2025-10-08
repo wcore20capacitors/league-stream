@@ -12,3 +12,4 @@ Analyze customer data
 Draft staging plan
 Draft export compliance
 Update P&L sheet
+Simplify configuration
