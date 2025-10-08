@@ -4,3 +4,4 @@ Update dispute outcomes
 Check breaking changes
 Summarize bug triage
 Update rollback notes
+Update CDN rules
