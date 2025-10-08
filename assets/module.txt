@@ -11,3 +11,4 @@ Evaluate automation options
 Note improvement ideas
 Record retention schedule
 Plan career paths
+Note currency exposure
