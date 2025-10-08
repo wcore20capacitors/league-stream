@@ -7,3 +7,4 @@ Draft feature flag list
 Summarize funnel metrics
 Record risk register
 Draft HIPAA notes
+Note DPA clauses
