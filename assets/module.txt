@@ -11,3 +11,4 @@ Note firewall configs
 Research best practices
 Check export rules
 Record volunteer names
+Add more documentation notes
