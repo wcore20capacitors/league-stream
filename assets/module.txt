@@ -6,3 +6,4 @@ Note decision log
 Record shift handovers
 Note funding options
 Capture moodboard items
+List influencer mentions
