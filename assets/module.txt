@@ -1,8 +1,1 @@
-Review caching strategy
-Draft precision notes
-Update dispute outcomes
-Check breaking changes
-Summarize bug triage
-Update rollback notes
-Update CDN rules
-Update legal references
+Summarize results
