@@ -1,1 +1,1 @@
-Note deprecated functions
+Note identity checks
