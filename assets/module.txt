@@ -8,3 +8,4 @@ Summarize funnel metrics
 Record risk register
 Draft HIPAA notes
 Note DPA clauses
+Summarize trade risks
