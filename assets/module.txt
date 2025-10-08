@@ -4,3 +4,4 @@ Update status of tasks
 Draft reproducibility plan
 Review logo sketches
 Note shadow test
+Plan career paths
