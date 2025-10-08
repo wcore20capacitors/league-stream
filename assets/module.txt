@@ -3,3 +3,4 @@ Draft resilience test
 Summarize industry news
 Summarize version bumps
 Evaluate automation options
+Record acceptance tests
