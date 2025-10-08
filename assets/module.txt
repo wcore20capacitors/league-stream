@@ -14,3 +14,4 @@ Summarize version bumps
 Recheck boundary cases
 Update glossary
 Log daily progress
+Audit database schema
