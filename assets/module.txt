@@ -1,2 +1,3 @@
 Record stock counts
 Schedule publishing plan
+Record feature votes
