@@ -9,3 +9,4 @@ Note sprint outcome
 Summarize zone updates
 Evaluate automation options
 Note improvement ideas
+Record retention schedule
