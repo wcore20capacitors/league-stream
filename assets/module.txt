@@ -18,3 +18,4 @@ Note innovation backlog
 Draft ensemble plan
 Update cross-team docs
 Improve logging format
+Review WAF settings
