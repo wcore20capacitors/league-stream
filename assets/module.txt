@@ -1,3 +1,4 @@
 Expand integration tests
 Add alternative approaches
 Record cache purge steps
+Check localization files
