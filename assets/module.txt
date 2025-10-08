@@ -4,3 +4,4 @@ Record cache purge steps
 Check localization files
 Record survey highlights
 Summarize last meeting notes
+Record NPS score
