@@ -6,3 +6,4 @@ List vendor options
 Update poll results
 Summarize zone updates
 Update collaboration doc
+Prepare hiring plan
