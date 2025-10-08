@@ -1,2 +1,3 @@
 Summarize results
 Record F1 score
+Note jurisdiction issues
