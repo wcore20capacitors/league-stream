@@ -10,3 +10,4 @@ Draft weekly digest
 Summarize CI logs
 Record budget estimates
 Draft recovery notes
+Log daily progress
