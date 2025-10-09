@@ -2,3 +2,4 @@ Validate new assumptions
 Review escalation paths
 Summarize trade risks
 Update legal references
+Update validation plan
