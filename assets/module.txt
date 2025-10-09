@@ -7,3 +7,4 @@ Check expiry dates
 Draft social post plan
 Record cache purge steps
 Research best practices
+Summarize SIEM setup
