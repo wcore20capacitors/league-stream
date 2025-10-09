@@ -9,3 +9,4 @@ Update collaboration doc
 Prepare hiring plan
 Plan data migration
 Note innovation backlog
+Check dependencies for updates
