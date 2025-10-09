@@ -3,3 +3,4 @@ Update plan for next release
 Summarize journalist list
 Check export rules
 Note alignment checks
+Summarize restore drills
