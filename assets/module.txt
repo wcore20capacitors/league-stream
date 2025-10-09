@@ -14,3 +14,4 @@ Record cache purge steps
 Collect analytics snapshots
 Update ad creatives
 Draft onboarding steps
+Record certificate renewals
