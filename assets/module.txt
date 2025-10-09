@@ -31,3 +31,4 @@ Update incident timeline
 Update P&L sheet
 Update privacy notice
 Note content review
+Record auth logs
