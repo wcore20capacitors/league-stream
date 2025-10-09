@@ -7,3 +7,4 @@ Update dependency versions
 Update annotation tool
 Note shadow test
 Draft roadmap alignment
+Note compliance reminders
