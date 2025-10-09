@@ -1,14 +1,1 @@
-Summarize thank-you notes
-Draft resilience test
-Summarize results
-Update annotation tool
-List vendor options
-Update poll results
-Summarize zone updates
-Update collaboration doc
-Prepare hiring plan
-Plan data migration
-Note innovation backlog
-Check dependencies for updates
-Update alerting rules
-Draft roadmap alignment
+Review architecture decisions
