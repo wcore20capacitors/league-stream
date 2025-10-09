@@ -1,15 +1,1 @@
-Note accessibility gaps
-Summarize litigation notes
-Note reorder points
-Record labeling guide
-Update changelog with details
-Plan outreach tasks
-Summarize ROC data
-Summarize compliance checks
-Record steering notes
-Analyze user feedback
-Schedule maintenance window
-Record import duties
-Summarize results
-Note compliance reminders
-Refine SEO checklist
+Plan oncall shifts
