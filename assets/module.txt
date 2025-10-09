@@ -6,3 +6,4 @@ Prepare case studies
 Plan resource allocation
 Record arbitration steps
 Update load balancer notes
+Capture SWOT notes
