@@ -5,3 +5,4 @@ Record engagement stats
 Summarize adoption metrics
 List shipping costs
 List pending approvals
+Record procurement steps
