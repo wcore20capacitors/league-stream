@@ -12,3 +12,4 @@ Check delivery follow-up
 Fix minor issues in workflow
 Record stock counts
 Draft container images
+Update status of tasks
