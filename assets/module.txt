@@ -3,3 +3,4 @@ Draft quarterly report
 Review billing items
 Draft container images
 Note shadow test
+List semantic changes
