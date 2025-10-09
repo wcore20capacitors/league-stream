@@ -7,3 +7,4 @@ Check anomaly alerts
 Record risk register
 Capture article topics
 Update supply data
+Summarize workshop notes
