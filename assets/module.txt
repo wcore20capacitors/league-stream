@@ -1,1 +1,2 @@
 Capture open questions
+Log regression issues
