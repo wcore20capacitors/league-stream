@@ -1,2 +1,3 @@
 Check monitoring alerts
 List vendor options
+Review billing items
