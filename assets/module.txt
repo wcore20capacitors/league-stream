@@ -1,15 +1,1 @@
-Update supply data
-Summarize rollout success
-Update contact list
-Update reproducibility logs
-Note DPA clauses
-Note integrity checks
-Note suspicious patterns
-List known limitations
-Summarize risks identified
-Draft upsell campaign
-Update test matrix
-Record shift handovers
-Draft documentation outline
-Update proof-of-concept
-List semantic changes
+Update portfolio deck
