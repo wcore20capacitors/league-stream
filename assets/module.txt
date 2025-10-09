@@ -11,3 +11,4 @@ Verify API endpoints
 Record acceptance tests
 Plan website refresh
 Record cache purge steps
+Collect analytics snapshots
