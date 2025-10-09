@@ -7,3 +7,4 @@ Plan resource allocation
 Record arbitration steps
 Update load balancer notes
 Capture SWOT notes
+Add unit test coverage
