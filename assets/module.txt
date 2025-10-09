@@ -6,3 +6,4 @@ Check build artifacts
 Draft liquidity plan
 Analyze user feedback
 Draft sponsorship deals
+Draft partnership ideas
