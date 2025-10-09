@@ -4,3 +4,4 @@ Log post-launch issues
 List rate limit configs
 List password policies
 Summarize journalist list
+Note legal risks
