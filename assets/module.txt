@@ -10,3 +10,4 @@ Draft sponsorship deals
 Review MFA adoption
 Track timeline adjustments
 Summarize PCI items
+Record stakeholder feedback
