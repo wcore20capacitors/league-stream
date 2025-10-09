@@ -2,3 +2,4 @@ Summarize trade risks
 Draft weekly digest
 Review contract clauses
 Draft opportunity list
+List cluster configs
