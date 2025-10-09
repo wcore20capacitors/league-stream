@@ -1,2 +1,3 @@
 Capture open questions
 Log regression issues
+Note coverage scores
