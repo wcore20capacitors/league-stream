@@ -13,3 +13,4 @@ Draft roadmap sketch
 Note trend shifts
 Record procurement steps
 Capture retention risks
+Record benchmark outcomes
