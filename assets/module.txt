@@ -5,3 +5,4 @@ Analyze user feedback
 Draft failover plan
 Record gradual rollout
 Record HR initiatives
+Summarize brand sentiment
