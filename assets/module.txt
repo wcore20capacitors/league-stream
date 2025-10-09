@@ -1,2 +1,3 @@
 Review revenue data
 Draft SSO integration
+Summarize industry news
