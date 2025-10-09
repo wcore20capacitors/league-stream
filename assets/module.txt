@@ -3,3 +3,4 @@ Plan workshop agenda
 Summarize feedback loops
 Note compliance reminders
 Summarize responsive fixes
+Draft mockup notes
