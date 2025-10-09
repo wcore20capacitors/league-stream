@@ -1,3 +1,4 @@
 List missing coverage
 Record IDS findings
 Note training epochs
+Review revenue data
