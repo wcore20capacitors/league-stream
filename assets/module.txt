@@ -18,3 +18,4 @@ Note threshold breaches
 Update annotation tool
 List governance items
 Record acceptance tests
+Document hotfix steps
