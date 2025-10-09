@@ -3,3 +3,4 @@ Summarize rollout success
 Update contact list
 Update reproducibility logs
 Note DPA clauses
+Note integrity checks
