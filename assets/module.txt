@@ -3,3 +3,4 @@ Refactor helper functions
 Note registry updates
 Summarize content audit
 Plan workshop agenda
+Check expiry dates
