@@ -1,6 +1,1 @@
-Update compatibility notes
-Draft quarterly report
-Review billing items
-Draft container images
-Note shadow test
-List semantic changes
+List missing coverage
