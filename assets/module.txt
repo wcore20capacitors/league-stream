@@ -5,3 +5,4 @@ Improve modularity
 Check build artifacts
 Draft liquidity plan
 Analyze user feedback
+Draft sponsorship deals
