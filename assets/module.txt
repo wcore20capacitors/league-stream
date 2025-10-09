@@ -1,3 +1,4 @@
 Record key rotation plan
 Update plan for next release
 Summarize journalist list
+Check export rules
