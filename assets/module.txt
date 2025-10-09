@@ -10,3 +10,4 @@ Research best practices
 Summarize SIEM setup
 Record interview notes
 Review billing items
+Note decision log
