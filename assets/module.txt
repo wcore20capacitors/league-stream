@@ -1,1 +1,2 @@
 Draft weekly digest
+Refactor helper functions
