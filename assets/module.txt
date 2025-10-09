@@ -5,3 +5,4 @@ Review revenue data
 Update dispute outcomes
 Log strategic initiatives
 Clarify design goals
+Draft quarterly report
