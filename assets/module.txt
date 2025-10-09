@@ -8,3 +8,4 @@ Adjust retry logic
 Record media queries
 Note accessibility gaps
 Verify API endpoints
+Record acceptance tests
