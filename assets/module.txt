@@ -6,3 +6,4 @@ Note DPA clauses
 Note integrity checks
 Note suspicious patterns
 List known limitations
+Summarize risks identified
