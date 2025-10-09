@@ -20,3 +20,4 @@ List governance items
 Record acceptance tests
 Document hotfix steps
 Note trending topics
+Summarize compliance checks
