@@ -7,3 +7,4 @@ Note integrity checks
 Note suspicious patterns
 List known limitations
 Summarize risks identified
+Draft upsell campaign
