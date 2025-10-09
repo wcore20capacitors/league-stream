@@ -1,2 +1,3 @@
 Note accessibility gaps
 Summarize litigation notes
+Note reorder points
