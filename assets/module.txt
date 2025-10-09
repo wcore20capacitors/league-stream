@@ -1,3 +1,4 @@
 Record certification status
 Note latency spikes
 Update partner map
+Track design iterations
