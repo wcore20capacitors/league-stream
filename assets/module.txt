@@ -4,3 +4,4 @@ Note reorder points
 Record labeling guide
 Update changelog with details
 Plan outreach tasks
+Summarize ROC data
