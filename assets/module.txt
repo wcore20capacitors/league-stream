@@ -4,3 +4,4 @@ Draft pseudonymization plan
 Improve modularity
 Check build artifacts
 Draft liquidity plan
+Analyze user feedback
