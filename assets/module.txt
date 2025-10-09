@@ -3,3 +3,4 @@ List OKRs
 Draft pseudonymization plan
 Improve modularity
 Check build artifacts
+Draft liquidity plan
