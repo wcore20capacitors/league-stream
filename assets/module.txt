@@ -1,2 +1,1 @@
-Summarize permission gaps
-Note training needs
+Capture open questions
