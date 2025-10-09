@@ -6,3 +6,4 @@ Update cross-team docs
 Check anomaly alerts
 Record risk register
 Capture article topics
+Update supply data
