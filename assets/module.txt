@@ -6,3 +6,4 @@ Summarize adoption metrics
 List shipping costs
 List pending approvals
 Record procurement steps
+List influencer mentions
