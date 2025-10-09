@@ -2,3 +2,4 @@ Plan oncall shifts
 Plan workshop agenda
 Summarize feedback loops
 Note compliance reminders
+Summarize responsive fixes
