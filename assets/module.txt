@@ -9,3 +9,4 @@ List cluster configs
 Draft sponsorship deals
 Review MFA adoption
 Track timeline adjustments
+Summarize PCI items
