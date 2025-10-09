@@ -1,13 +1,1 @@
-Review architecture decisions
-Update collaboration doc
-Record survey highlights
-Analyze user feedback
-Draft failover plan
-Record gradual rollout
-Record HR initiatives
-Summarize brand sentiment
-Fix minor issues in workflow
-Update load balancer notes
-Summarize brand sentiment
-Summarize rollout success
-Research best practices
+Record certification status
