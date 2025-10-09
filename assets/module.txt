@@ -1,1 +1,2 @@
 Validate new assumptions
+Review escalation paths
