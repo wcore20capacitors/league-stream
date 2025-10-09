@@ -1,2 +1,3 @@
 Update portfolio deck
 Draft roadmap alignment
+Note deprecated functions
