@@ -11,3 +11,4 @@ Add unit test coverage
 Draft SLA updates
 Draft roadmap sketch
 Note trend shifts
+Record procurement steps
