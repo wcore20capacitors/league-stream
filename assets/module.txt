@@ -3,3 +3,4 @@ Review escalation paths
 Summarize trade risks
 Update legal references
 Update validation plan
+Capture moodboard items
