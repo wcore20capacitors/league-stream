@@ -2,3 +2,4 @@ List missing translations
 Review WAF settings
 Record feedback cycle
 Check expiry dates
+Note conference topics
