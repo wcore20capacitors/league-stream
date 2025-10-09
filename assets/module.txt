@@ -1,12 +1,1 @@
-Track configuration drift
-Record prize details
-Note training needs
-Draft export compliance
-Update validation plan
-Brainstorm feature ideas
-Write outcome summary
-Draft resilience test
-Summarize key takeaways
-Summarize ML metrics
-Improve logging format
-Plan rebranding steps
+Summarize permission gaps
