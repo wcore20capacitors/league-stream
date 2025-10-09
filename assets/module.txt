@@ -1,16 +1,1 @@
-Draft accessibility review
-List banking contacts
-Check API gateway
-Record engagement stats
-Summarize adoption metrics
-List shipping costs
-List pending approvals
-Record procurement steps
-List influencer mentions
-Check customs docs
-Review code for optimization
-Record user stories
-Summarize traffic weights
-Record gradual rollout
-Record load test data
-Update proof-of-concept
+Update compatibility notes
