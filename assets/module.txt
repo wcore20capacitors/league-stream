@@ -1,2 +1,3 @@
 Record labeling guide
 Draft access review
+Clarify design goals
