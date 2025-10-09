@@ -7,3 +7,4 @@ Draft staging plan
 Adjust retry logic
 Record media queries
 Note accessibility gaps
+Verify API endpoints
