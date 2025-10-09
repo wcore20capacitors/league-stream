@@ -30,3 +30,4 @@ Summarize KPIs
 Update incident timeline
 Update P&L sheet
 Update privacy notice
+Note content review
