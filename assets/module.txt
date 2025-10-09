@@ -1,17 +1,1 @@
-Check export rules
-Summarize results
-Update compatibility notes
-Summarize SIEM setup
-Update cross-team docs
-Check anomaly alerts
-Record risk register
-Capture article topics
-Update supply data
-Summarize workshop notes
-Check delivery follow-up
-Fix minor issues in workflow
-Record stock counts
-Draft container images
-Update status of tasks
-Record experiment seeds
-Check breaking changes
+Validate new assumptions
