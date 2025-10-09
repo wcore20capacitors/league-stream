@@ -1,15 +1,1 @@
-Draft weekly digest
-Refactor helper functions
-Note registry updates
-Summarize content audit
-Plan workshop agenda
-Check expiry dates
-Draft social post plan
-Record cache purge steps
-Research best practices
-Summarize SIEM setup
-Record interview notes
-Review billing items
-Note decision log
-Summarize ML metrics
-Review logo sketches
+Write summary report
