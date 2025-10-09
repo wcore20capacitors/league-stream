@@ -10,3 +10,4 @@ Draft partnership ideas
 Recheck boundary cases
 Plan resource allocation
 Record NPS score
+Note follow-up actions
