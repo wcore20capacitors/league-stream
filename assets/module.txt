@@ -12,3 +12,4 @@ Draft SLA updates
 Draft roadmap sketch
 Note trend shifts
 Record procurement steps
+Capture retention risks
