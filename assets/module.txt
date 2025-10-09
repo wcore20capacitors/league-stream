@@ -13,3 +13,4 @@ Plan website refresh
 Record cache purge steps
 Collect analytics snapshots
 Update ad creatives
+Draft onboarding steps
