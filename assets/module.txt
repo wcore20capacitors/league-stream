@@ -29,3 +29,4 @@ List open vulnerabilities
 Summarize KPIs
 Update incident timeline
 Update P&L sheet
+Update privacy notice
