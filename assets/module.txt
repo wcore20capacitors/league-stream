@@ -1,5 +1,1 @@
-Record feedback cycle
-Note coverage scores
-Update threat model
-Note cluster issues
-Summarize validation data
+Record certification status
