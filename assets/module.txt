@@ -3,3 +3,4 @@ Summarize litigation notes
 Note reorder points
 Record labeling guide
 Update changelog with details
+Plan outreach tasks
