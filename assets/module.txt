@@ -9,3 +9,4 @@ Record media queries
 Note accessibility gaps
 Verify API endpoints
 Record acceptance tests
+Plan website refresh
