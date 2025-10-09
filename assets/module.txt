@@ -2,3 +2,4 @@ Check monitoring alerts
 List vendor options
 Review billing items
 Draft access review
+Capture monitoring gaps
