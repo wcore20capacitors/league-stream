@@ -1,3 +1,4 @@
 Summarize security audit
 Record gradual rollout
 Record validation scores
+Collect analytics snapshots
