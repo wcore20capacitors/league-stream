@@ -4,3 +4,4 @@ Note training epochs
 Review revenue data
 Update dispute outcomes
 Log strategic initiatives
+Clarify design goals
