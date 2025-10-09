@@ -3,3 +3,4 @@ Summarize results
 Update compatibility notes
 Summarize SIEM setup
 Update cross-team docs
+Check anomaly alerts
