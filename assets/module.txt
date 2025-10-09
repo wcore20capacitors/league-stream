@@ -4,3 +4,4 @@ Summarize product goals
 Fix minor issues in workflow
 Prepare case studies
 Plan resource allocation
+Record arbitration steps
