@@ -2,3 +2,4 @@ Note accessibility gaps
 Summarize litigation notes
 Note reorder points
 Record labeling guide
+Update changelog with details
