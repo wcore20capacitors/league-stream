@@ -1,3 +1,1 @@
-Capture open questions
-Log regression issues
-Note coverage scores
+Draft marketing blurb
