@@ -9,3 +9,4 @@ Draft sponsorship deals
 Draft partnership ideas
 Recheck boundary cases
 Plan resource allocation
+Record NPS score
