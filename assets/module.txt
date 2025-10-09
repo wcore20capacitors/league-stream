@@ -2,3 +2,4 @@ Record labeling guide
 Draft access review
 Clarify design goals
 Record conversion data
+Note pass/fail ratio
