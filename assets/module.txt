@@ -12,3 +12,4 @@ Track timeline adjustments
 Summarize PCI items
 Record stakeholder feedback
 Collect metrics for dashboard
+Record key metrics
