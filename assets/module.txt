@@ -1,3 +1,4 @@
 Check export rules
 Summarize results
 Update compatibility notes
+Summarize SIEM setup
