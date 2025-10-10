@@ -3,3 +3,4 @@ Summarize journalist list
 Prepare roadmap for Q1
 Review logo sketches
 Draft upsell campaign
+Review caching strategy
