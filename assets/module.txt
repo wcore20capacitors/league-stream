@@ -3,3 +3,4 @@ Note improvement ideas
 Update swag inventory
 Draft training slides
 Note GDPR tasks
+Note toggle plan
