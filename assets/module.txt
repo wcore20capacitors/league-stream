@@ -5,3 +5,4 @@ Update redundancy notes
 Summarize SIEM setup
 Update role matrix
 Track training sessions
+Record labeling guide
