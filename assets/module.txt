@@ -1,2 +1,3 @@
 Update dropout rate
 Update collaboration doc
+Update legal references
