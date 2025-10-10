@@ -1,2 +1,3 @@
 Summarize giveaway notes
 Summarize opt-out stats
+Update CDN rules
