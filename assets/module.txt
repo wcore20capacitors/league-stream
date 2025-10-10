@@ -3,3 +3,4 @@ Update recognition board
 Update supply data
 Record interview notes
 Document key decisions
+List rotation schedule
