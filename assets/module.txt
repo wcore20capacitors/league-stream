@@ -3,3 +3,4 @@ Summarize content audit
 Summarize QA audits
 Note conference topics
 Investigate performance bottleneck
+Define success criteria
