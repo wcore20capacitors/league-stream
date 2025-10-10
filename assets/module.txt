@@ -1,4 +1,1 @@
-Note latency spikes
-Record shift handovers
-List DR procedures
-Note configuration changes
+List action follow-ups
