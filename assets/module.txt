@@ -5,3 +5,4 @@ Draft training slides
 Note GDPR tasks
 Note toggle plan
 Update style guide
+Investigate error patterns
