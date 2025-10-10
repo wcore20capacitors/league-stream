@@ -1,2 +1,3 @@
 Summarize deployment logs
 Note improvement ideas
+Update swag inventory
