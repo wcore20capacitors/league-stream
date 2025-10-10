@@ -1,15 +1,1 @@
-Update annotation tool
-Update session rules
-Summarize call notes
-Review WAF settings
-Update tracking board
-Note accessibility gaps
-List missing translations
-Record feature votes
-Capture monitoring gaps
-Update recognition board
-Investigate error patterns
-Draft escalation doc
-Summarize giveaway notes
-Log daily progress
-Define success criteria
+Update style guide
