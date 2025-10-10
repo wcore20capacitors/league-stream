@@ -2,3 +2,4 @@ Refactor helper functions
 Schedule publishing plan
 Record competitor scans
 Update SOC reports
+List vendor options
