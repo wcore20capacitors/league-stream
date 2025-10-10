@@ -1,2 +1,3 @@
 Polish UI interactions
 Simplify configuration
+Adjust retry logic
