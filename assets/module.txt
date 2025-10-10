@@ -5,3 +5,4 @@ Record competitor moves
 Expand integration tests
 Update load balancer notes
 List rate limit configs
+Draft exploration notes
