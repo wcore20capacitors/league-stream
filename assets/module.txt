@@ -1,1 +1,2 @@
 Update plan for next release
+Note registry updates
