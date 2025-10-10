@@ -1,10 +1,1 @@
-Record acceptance tests
-Record hackathon ideas
-Note provider options
-Record competitor moves
-Expand integration tests
-Update load balancer notes
-List rate limit configs
-Draft exploration notes
-Record retention schedule
-Update API limits
+Add privacy considerations
