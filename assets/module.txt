@@ -9,3 +9,4 @@ Note DNS changes
 Review cost savings
 Note suspicious patterns
 Note alignment checks
+Record gradual rollout
