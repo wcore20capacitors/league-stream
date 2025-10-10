@@ -1,12 +1,1 @@
-Update CDN rules
-Draft experiment log
-Record stakeholder feedback
-Update pricing table
-Draft SLA updates
-Note configuration changes
-Note lessons learned
-Summarize results
-Update incident timeline
 Note improvement ideas
-Draft tuning plan
-Plan oncall shifts
