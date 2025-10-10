@@ -1,3 +1,4 @@
 Note training epochs
 Draft canary rollout
 Summarize version bumps
+Update fleet schedule
