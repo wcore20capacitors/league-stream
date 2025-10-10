@@ -5,3 +5,4 @@ Update SOC reports
 List vendor options
 Plan cashflow forecast
 Plan outreach tasks
+Plan deployment strategy
