@@ -1,1 +1,2 @@
 Investigate performance bottleneck
+Update dropout rate
