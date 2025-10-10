@@ -6,3 +6,4 @@ Update diagrams
 Draft failover plan
 Prepare A/B test plan
 Experiment with prototypes
+Check localization files
