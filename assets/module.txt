@@ -1,15 +1,1 @@
-Summarize deployment logs
-Summarize content audit
-Summarize QA audits
-Note conference topics
-Investigate performance bottleneck
-Define success criteria
-Note funding options
-Draft UX improvements
-Record progress KPIs
-Summarize employee feedback
-Clarify design goals
-Draft mitigation guide
-Draft export compliance
-Record risk register
-Schedule maintenance window
+Update SSL chain
