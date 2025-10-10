@@ -4,3 +4,4 @@ Summarize call notes
 Review WAF settings
 Update tracking board
 Note accessibility gaps
+List missing translations
