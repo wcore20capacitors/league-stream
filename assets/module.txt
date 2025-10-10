@@ -8,3 +8,4 @@ List missing translations
 Record feature votes
 Capture monitoring gaps
 Update recognition board
+Investigate error patterns
