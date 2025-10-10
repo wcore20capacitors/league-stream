@@ -1,18 +1,1 @@
-Plan deployment strategy
-Check breaking changes
-Draft consent policy
-List semantic changes
-Record DB query logs
-Summarize opt-out stats
-Review contract clauses
-Note DNS changes
-Review cost savings
-Note suspicious patterns
-Note alignment checks
-Record gradual rollout
-Record expense items
-Update CDN rules
-Update collaboration doc
-Log regression issues
-Update P&L sheet
-Check expiry dates
+Note training epochs
