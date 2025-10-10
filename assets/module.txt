@@ -3,3 +3,4 @@ Note suspicious patterns
 Check container configs
 Log strategic initiatives
 Record benchmark outcomes
+Document hotfix steps
