@@ -1,3 +1,1 @@
-Investigate error patterns
-Summarize anonymization steps
-Summarize restore drills
+Draft blog outline
