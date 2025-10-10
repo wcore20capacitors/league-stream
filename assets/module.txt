@@ -1,3 +1,4 @@
 Check container configs
 Summarize journalist list
 Prepare roadmap for Q1
+Review logo sketches
