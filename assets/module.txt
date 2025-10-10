@@ -1,1 +1,2 @@
 Simplify configuration
+Note suspicious patterns
