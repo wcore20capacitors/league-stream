@@ -1,2 +1,3 @@
 Summarize regularization notes
 Draft NDA template
+Draft onboarding steps
