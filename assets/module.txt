@@ -1,10 +1,1 @@
-Update dropout rate
-Update collaboration doc
-Update legal references
-Summarize deployment logs
-Update diagrams
-Draft failover plan
-Prepare A/B test plan
-Experiment with prototypes
-Check localization files
-Update retention plan
+Update CDN rules
