@@ -1,6 +1,1 @@
-Draft loyalty program
-Review logo sketches
-Plan website refresh
-Review revenue data
-Update dependency versions
-Record validation scores
+Refactor helper functions
