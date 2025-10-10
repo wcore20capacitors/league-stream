@@ -12,3 +12,4 @@ Investigate error patterns
 Draft escalation doc
 Summarize giveaway notes
 Log daily progress
+Define success criteria
