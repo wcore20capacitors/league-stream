@@ -2,3 +2,4 @@ Summarize regularization notes
 Draft NDA template
 Draft onboarding steps
 Document retry policy
+Check API gateway
