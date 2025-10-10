@@ -2,3 +2,4 @@ Plan deployment strategy
 Check breaking changes
 Draft consent policy
 List semantic changes
+Record DB query logs
