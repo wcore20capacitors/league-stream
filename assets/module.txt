@@ -5,3 +5,4 @@ Update pricing table
 Draft SLA updates
 Note configuration changes
 Note lessons learned
+Summarize results
