@@ -1,8 +1,1 @@
-Update migration scripts
-Plan data migration
-Record gradual rollout
-Update hedging plan
-Check breaking changes
-Draft staging plan
-Note campaign results
-Investigate performance bottleneck
+Draft loyalty program
