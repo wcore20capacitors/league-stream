@@ -4,3 +4,4 @@ Record competitor scans
 Note improvement ideas
 List semantic changes
 Draft support script
+Log regression issues
