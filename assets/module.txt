@@ -1,3 +1,1 @@
-Summarize giveaway notes
-Summarize opt-out stats
-Update CDN rules
+Record acceptance tests
