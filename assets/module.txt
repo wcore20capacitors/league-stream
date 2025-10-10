@@ -3,3 +3,4 @@ Update collaboration doc
 Update legal references
 Summarize deployment logs
 Update diagrams
+Draft failover plan
