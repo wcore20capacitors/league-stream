@@ -20,3 +20,4 @@ Draft partnership ideas
 Draft feature proposal
 Write summary report
 Review architecture decisions
+Recheck boundary cases
