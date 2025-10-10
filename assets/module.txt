@@ -1,2 +1,3 @@
 Plan deployment strategy
 Check breaking changes
+Draft consent policy
