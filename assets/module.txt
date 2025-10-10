@@ -4,3 +4,4 @@ Summarize QA audits
 Note conference topics
 Investigate performance bottleneck
 Define success criteria
+Note funding options
