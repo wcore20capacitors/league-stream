@@ -11,3 +11,4 @@ Note suspicious patterns
 Note alignment checks
 Record gradual rollout
 Record expense items
+Update CDN rules
