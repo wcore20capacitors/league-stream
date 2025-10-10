@@ -6,3 +6,4 @@ Draft upsell campaign
 Review caching strategy
 Fix minor issues in workflow
 Plan cashflow forecast
+Draft testimonials list
