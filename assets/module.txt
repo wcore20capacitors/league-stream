@@ -1,12 +1,1 @@
-Summarize deployment logs
-Note improvement ideas
-Update swag inventory
-Draft training slides
-Note GDPR tasks
-Note toggle plan
-Update style guide
-Investigate error patterns
-Prepare presentation slides
-Summarize ML metrics
-Draft forum summary
-Refine acceptance criteria
+Update migration scripts
