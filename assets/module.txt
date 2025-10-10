@@ -7,3 +7,4 @@ Define success criteria
 Note funding options
 Draft UX improvements
 Record progress KPIs
+Summarize employee feedback
