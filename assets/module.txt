@@ -3,3 +3,4 @@ Update session rules
 Summarize call notes
 Review WAF settings
 Update tracking board
+Note accessibility gaps
