@@ -2,3 +2,4 @@ Update migration scripts
 Plan data migration
 Record gradual rollout
 Update hedging plan
+Check breaking changes
