@@ -3,3 +3,4 @@ Check breaking changes
 Draft consent policy
 List semantic changes
 Record DB query logs
+Summarize opt-out stats
