@@ -1,3 +1,4 @@
 Summarize deployment logs
 Note improvement ideas
 Update swag inventory
+Draft training slides
