@@ -1,2 +1,3 @@
 Update plan for next release
 Note registry updates
+Record competitor scans
