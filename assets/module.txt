@@ -1,2 +1,3 @@
 Draft UX improvements
 Summarize quota usage
+Note trend shifts
