@@ -1,3 +1,1 @@
-List discount schemes
-Note investment options
-Document hotfix steps
+Polish UI interactions
