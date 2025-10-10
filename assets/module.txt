@@ -6,3 +6,4 @@ Record DB query logs
 Summarize opt-out stats
 Review contract clauses
 Note DNS changes
+Review cost savings
