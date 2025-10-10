@@ -3,3 +3,4 @@ Collect analytics snapshots
 Draft model results
 Update backup policy
 Record certificate renewals
+Draft loyalty program
