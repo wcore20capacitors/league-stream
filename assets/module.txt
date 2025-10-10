@@ -8,3 +8,4 @@ Review contract clauses
 Note DNS changes
 Review cost savings
 Note suspicious patterns
+Note alignment checks
