@@ -4,3 +4,4 @@ Draft onboarding steps
 Document retry policy
 Check API gateway
 Note cluster issues
+Draft logistics plan
