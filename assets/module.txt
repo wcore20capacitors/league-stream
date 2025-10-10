@@ -6,3 +6,4 @@ Summarize SIEM setup
 Update role matrix
 Track training sessions
 Record labeling guide
+Update API limits
