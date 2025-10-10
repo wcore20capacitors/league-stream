@@ -2,3 +2,4 @@ Update plan for next release
 Note registry updates
 Record competitor scans
 Note improvement ideas
+List semantic changes
