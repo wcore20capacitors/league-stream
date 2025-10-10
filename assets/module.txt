@@ -11,3 +11,4 @@ Summarize employee feedback
 Clarify design goals
 Draft mitigation guide
 Draft export compliance
+Record risk register
