@@ -1,1 +1,2 @@
 Update annotation tool
+Update session rules
