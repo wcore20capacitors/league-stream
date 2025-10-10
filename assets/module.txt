@@ -2,3 +2,4 @@ Check build artifacts
 Prepare A/B test plan
 Draft emergency contacts
 Summarize responsive fixes
+Draft accessibility review
