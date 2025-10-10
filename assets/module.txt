@@ -1,2 +1,3 @@
 Record acceptance tests
 Record hackathon ideas
+Note provider options
