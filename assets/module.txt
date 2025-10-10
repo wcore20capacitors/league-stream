@@ -6,3 +6,4 @@ Note GDPR tasks
 Note toggle plan
 Update style guide
 Investigate error patterns
+Prepare presentation slides
