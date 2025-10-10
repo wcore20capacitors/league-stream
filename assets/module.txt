@@ -1,11 +1,1 @@
-Check container configs
-Summarize journalist list
-Prepare roadmap for Q1
-Review logo sketches
-Draft upsell campaign
-Review caching strategy
-Fix minor issues in workflow
-Plan cashflow forecast
-Draft testimonials list
-Refactor old modules
-Check expiry dates
+Note trending topics
