@@ -2,3 +2,4 @@ Update P&L sheet
 Summarize funnel metrics
 Plan oncall shifts
 Record auth logs
+Record compliance status
