@@ -7,3 +7,4 @@ Update load balancer notes
 List rate limit configs
 Draft exploration notes
 Record retention schedule
+Update API limits
