@@ -6,3 +6,4 @@ Record compliance status
 Log daily progress
 Update changelog with details
 Review code for optimization
+Note firewall configs
