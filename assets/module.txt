@@ -2,3 +2,4 @@ Note suspicious patterns
 Note shadow test
 Record volunteer names
 Review monitoring setup
+Note alignment checks
