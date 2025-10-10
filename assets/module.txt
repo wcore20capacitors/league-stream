@@ -1,5 +1,1 @@
-Note training epochs
-Draft canary rollout
-Summarize version bumps
-Update fleet schedule
-Log regression issues
+Record experiment seeds
