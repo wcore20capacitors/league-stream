@@ -1,4 +1,1 @@
-Add privacy considerations
-Summarize warehouse logs
-Refine backlog items
-Record arbitration steps
+Update annotation tool
