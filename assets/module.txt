@@ -1,2 +1,3 @@
 Prepare closure report
 Note coverage scores
+Document retry policy
