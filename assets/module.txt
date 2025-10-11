@@ -1,15 +1,1 @@
-Update test matrix
-Plan cashflow forecast
-Draft ethics policy
-Recheck boundary cases
-Note cross-browser tests
-Reevaluate requirements
-Record certification status
-Summarize ML metrics
-Review billing items
-Note training needs
-Plan rollback procedure
-Summarize results
-Prepare roadmap for Q1
-Capture article topics
-Plan lead generation
+Update redundancy notes
