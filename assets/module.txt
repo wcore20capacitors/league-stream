@@ -10,3 +10,4 @@ Review billing items
 Note training needs
 Plan rollback procedure
 Summarize results
+Prepare roadmap for Q1
