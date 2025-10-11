@@ -3,3 +3,4 @@ Check container configs
 Verify API endpoints
 Audit database schema
 Draft consent policy
+Note deprecated functions
