@@ -6,3 +6,4 @@ Note cross-browser tests
 Reevaluate requirements
 Record certification status
 Summarize ML metrics
+Review billing items
