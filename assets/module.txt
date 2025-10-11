@@ -1,5 +1,1 @@
-List action follow-ups
-Record HR initiatives
-List rotation schedule
-Analyze customer data
-Record NPS score
+Draft feature proposal
