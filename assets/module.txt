@@ -8,3 +8,4 @@ Draft sponsorship deals
 Update contact list
 Write summary report
 Update reproducibility logs
+Plan lead generation
