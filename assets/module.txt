@@ -11,3 +11,4 @@ Note training needs
 Plan rollback procedure
 Summarize results
 Prepare roadmap for Q1
+Capture article topics
