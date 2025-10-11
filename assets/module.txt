@@ -1,9 +1,1 @@
-Record F1 score
-Capture open questions
-Plan resource allocation
-Record inflation impact
-Draft migration checklist
-Summarize last meeting notes
-Summarize adoption metrics
-Summarize uptime data
-Track design iterations
+Update proof-of-concept
