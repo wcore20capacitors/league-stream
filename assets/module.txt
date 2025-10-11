@@ -2,3 +2,4 @@ Note winner list
 Update cross-team docs
 Plan capacity increase
 Log daily progress
+Draft precision notes
