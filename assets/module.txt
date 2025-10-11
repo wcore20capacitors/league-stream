@@ -10,3 +10,4 @@ List open vulnerabilities
 Draft escalation doc
 Draft sponsorship deals
 Draft registrar tasks
+Review architecture decisions
