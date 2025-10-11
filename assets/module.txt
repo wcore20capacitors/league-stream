@@ -1,1 +1,1 @@
-Update redundancy notes
+Summarize deployment tests
