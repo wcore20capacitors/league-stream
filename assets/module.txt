@@ -1,6 +1,1 @@
-Record restore attempt
-Note deprecated functions
-Review pull requests
-Record stakeholder feedback
-Check customs docs
-Note threshold breaches
+Prepare roadmap for Q1
