@@ -4,3 +4,4 @@ Note DPA clauses
 List domain records
 Schedule next sprint planning
 Note registry updates
+Draft sponsorship deals
