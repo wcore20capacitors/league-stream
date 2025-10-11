@@ -1,10 +1,1 @@
-Update proof-of-concept
-Check clickthrough rate
-Summarize dependency map
-Update redundancy notes
-Summarize exec summary
-Note cluster issues
-Summarize uptime data
-Prepare roadmap for Q1
-Investigate performance bottleneck
-Note cluster issues
+Note overfit warning
