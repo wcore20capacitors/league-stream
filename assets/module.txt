@@ -3,3 +3,4 @@ Plan cashflow forecast
 Draft ethics policy
 Recheck boundary cases
 Note cross-browser tests
+Reevaluate requirements
