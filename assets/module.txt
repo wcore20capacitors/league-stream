@@ -1,14 +1,1 @@
-Record conversion data
-Draft tuning plan
-Summarize contract renewals
-Note jurisdiction issues
-Log post-launch issues
-Investigate performance bottleneck
-Draft celebration notes
-Experiment with prototypes
-List open vulnerabilities
-Draft escalation doc
-Draft sponsorship deals
-Draft registrar tasks
-Review architecture decisions
-Record downtime reports
+Draft style samples
