@@ -8,3 +8,4 @@ Record certification status
 Summarize ML metrics
 Review billing items
 Note training needs
+Plan rollback procedure
