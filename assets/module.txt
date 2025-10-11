@@ -1,2 +1,3 @@
 Note reorder points
 Note interest changes
+Record acceptance tests
