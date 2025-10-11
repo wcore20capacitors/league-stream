@@ -1,6 +1,1 @@
-Summarize deployment tests
-Record expense items
-Draft staging plan
-Note pipeline DAG
-Review logo sketches
-Update AUC results
+Record stakeholder feedback
