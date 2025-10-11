@@ -6,3 +6,4 @@ Log post-launch issues
 Investigate performance bottleneck
 Draft celebration notes
 Experiment with prototypes
+List open vulnerabilities
