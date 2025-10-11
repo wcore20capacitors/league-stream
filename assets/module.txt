@@ -1,3 +1,4 @@
 Review WAF settings
 Plan lead generation
 Note DPA clauses
+List domain records
