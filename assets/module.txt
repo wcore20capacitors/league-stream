@@ -4,3 +4,4 @@ Draft ethics policy
 Recheck boundary cases
 Note cross-browser tests
 Reevaluate requirements
+Record certification status
