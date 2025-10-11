@@ -9,3 +9,4 @@ Update contact list
 Write summary report
 Update reproducibility logs
 Plan lead generation
+Note recall issues
