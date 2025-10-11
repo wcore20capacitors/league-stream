@@ -8,3 +8,4 @@ Draft celebration notes
 Experiment with prototypes
 List open vulnerabilities
 Draft escalation doc
+Draft sponsorship deals
