@@ -7,3 +7,4 @@ Note cluster issues
 Summarize uptime data
 Prepare roadmap for Q1
 Investigate performance bottleneck
+Note cluster issues
