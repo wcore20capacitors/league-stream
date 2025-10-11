@@ -1,3 +1,1 @@
-Draft style samples
-Summarize outage causes
-Draft routing policies
+Plan deployment strategy
