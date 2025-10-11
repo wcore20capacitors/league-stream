@@ -3,3 +3,4 @@ Capture open questions
 Plan resource allocation
 Record inflation impact
 Draft migration checklist
+Summarize last meeting notes
