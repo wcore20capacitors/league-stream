@@ -2,3 +2,4 @@ Update proof-of-concept
 Check clickthrough rate
 Summarize dependency map
 Update redundancy notes
+Summarize exec summary
