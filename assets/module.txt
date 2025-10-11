@@ -4,3 +4,4 @@ Plan resource allocation
 Record inflation impact
 Draft migration checklist
 Summarize last meeting notes
+Summarize adoption metrics
