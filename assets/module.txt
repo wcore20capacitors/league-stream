@@ -10,3 +10,4 @@ Write summary report
 Update reproducibility logs
 Plan lead generation
 Note recall issues
+Summarize contingency plan
