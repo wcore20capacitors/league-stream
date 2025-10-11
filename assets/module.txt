@@ -12,3 +12,4 @@ Plan rollback procedure
 Summarize results
 Prepare roadmap for Q1
 Capture article topics
+Plan lead generation
