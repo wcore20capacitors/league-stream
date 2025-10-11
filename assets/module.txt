@@ -6,3 +6,4 @@ Note latency spikes
 Update hash list
 Prepare closure report
 Summarize launch steps
+Analyze customer data
