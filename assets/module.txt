@@ -1,2 +1,3 @@
 Create new test cases
 Record DB query logs
+Update kill switch
