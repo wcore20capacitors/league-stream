@@ -1,3 +1,4 @@
 Prepare roadmap for Q1
 Note accessibility gaps
 Note provider options
+Check localization files
