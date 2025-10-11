@@ -5,3 +5,4 @@ Update poll results
 Note latency spikes
 Update hash list
 Prepare closure report
+Summarize launch steps
