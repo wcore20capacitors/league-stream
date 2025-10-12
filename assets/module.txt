@@ -2,3 +2,4 @@ Note currency exposure
 Record acceptance tests
 Record labeling guide
 List action follow-ups
+Record CI/CD pipeline
