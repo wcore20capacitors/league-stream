@@ -5,3 +5,4 @@ Draft consent policy
 Check backup status
 Summarize funnel metrics
 Update portfolio deck
+Update session rules
