@@ -5,3 +5,4 @@ Draft experiment log
 List community ideas
 Review lessons learned
 Update AUC results
+Record CCPA checks
