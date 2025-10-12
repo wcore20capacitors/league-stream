@@ -26,3 +26,4 @@ Update reproducibility logs
 Update privacy notice
 Record CSS tweaks
 Record edge cases
+Draft documentation outline
