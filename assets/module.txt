@@ -10,3 +10,4 @@ Draft routing policies
 Check export rules
 Schedule publishing plan
 Recheck security notes
+Summarize warehouse logs
