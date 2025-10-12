@@ -3,3 +3,4 @@ Audit database schema
 Summarize market trends
 Draft consent policy
 Check backup status
+Summarize funnel metrics
