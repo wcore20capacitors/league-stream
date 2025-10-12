@@ -5,3 +5,4 @@ Note alignment checks
 Summarize AMA notes
 Review glossary terms
 List domain records
+List OKRs
