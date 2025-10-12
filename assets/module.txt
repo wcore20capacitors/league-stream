@@ -20,3 +20,4 @@ Note audit trail
 Draft sales strategy
 Draft HIPAA notes
 Draft escalation doc
+Draft staging plan
