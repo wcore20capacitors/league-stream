@@ -4,3 +4,4 @@ Check expiry dates
 Track training sessions
 Review pull requests
 Record feature votes
+Update hedging plan
