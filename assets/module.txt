@@ -27,3 +27,4 @@ Update privacy notice
 Record CSS tweaks
 Record edge cases
 Draft documentation outline
+Note shadow test
