@@ -24,3 +24,4 @@ Summarize journalist list
 Summarize content audit
 Update reproducibility logs
 Update privacy notice
+Record CSS tweaks
