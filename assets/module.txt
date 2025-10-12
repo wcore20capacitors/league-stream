@@ -4,3 +4,4 @@ Record prize details
 Update deletion logs
 Summarize QA audits
 Summarize hyperparam runs
+Update portfolio deck
