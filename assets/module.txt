@@ -22,3 +22,4 @@ Draft HIPAA notes
 Draft escalation doc
 Draft staging plan
 Collect metrics for dashboard
+Polish UI interactions
