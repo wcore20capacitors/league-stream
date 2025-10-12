@@ -14,3 +14,4 @@ Summarize warehouse logs
 Update portfolio deck
 Note training epochs
 Review contract clauses
+Record automation scripts
