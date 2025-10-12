@@ -18,3 +18,4 @@ Draft root cause notes
 List discount schemes
 Note audit trail
 Draft sales strategy
+Draft HIPAA notes
