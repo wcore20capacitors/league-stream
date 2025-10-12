@@ -9,3 +9,4 @@ Summarize KPIs
 Update role matrix
 Summarize responsive fixes
 Update privacy notice
+Record competitor scans
