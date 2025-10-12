@@ -8,3 +8,4 @@ Update portfolio deck
 Update session rules
 Adjust retry logic
 Check clickthrough rate
+Log strategic initiatives
