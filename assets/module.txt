@@ -12,3 +12,4 @@ Log strategic initiatives
 Note training needs
 Record blue-green notes
 Check monitoring alerts
+List password policies
