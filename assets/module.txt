@@ -2,3 +2,4 @@ Adjust retry logic
 Review caching strategy
 Draft feature flag list
 Note cross-browser tests
+Update SSL chain
