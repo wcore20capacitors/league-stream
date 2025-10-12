@@ -5,3 +5,4 @@ Draft migration checklist
 Note suspicious patterns
 Recheck boundary cases
 Update label templates
+Summarize compliance checks
