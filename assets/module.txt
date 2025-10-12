@@ -1,4 +1,1 @@
-Check burndown chart
-Draft detection rules
-Draft reproducibility plan
-Audit project structure
+Summarize top requests
