@@ -3,3 +3,4 @@ Update retention plan
 Record stakeholder feedback
 Note reorder points
 Start new iteration of the project
+Update swag inventory
