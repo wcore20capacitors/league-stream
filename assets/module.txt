@@ -28,3 +28,4 @@ Record CSS tweaks
 Record edge cases
 Draft documentation outline
 Note shadow test
+Note pipeline DAG
