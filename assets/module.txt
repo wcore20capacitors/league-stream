@@ -1,2 +1,3 @@
 Note currency exposure
 Record acceptance tests
+Record labeling guide
