@@ -11,3 +11,4 @@ Update validation plan
 Update portfolio deck
 Summarize litigation notes
 Record infra costs
+Update contact list
