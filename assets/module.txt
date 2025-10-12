@@ -4,3 +4,4 @@ Experiment with prototypes
 Document retry policy
 Check delivery follow-up
 Note overfit warning
+Note alignment checks
