@@ -10,3 +10,4 @@ Draft export compliance
 Update validation plan
 Update portfolio deck
 Summarize litigation notes
+Record infra costs
