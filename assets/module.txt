@@ -14,3 +14,4 @@ Record blue-green notes
 Check monitoring alerts
 List password policies
 Plan capacity increase
+Review revenue data
