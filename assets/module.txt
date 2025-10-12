@@ -2,3 +2,4 @@ Summarize funnel metrics
 Summarize scaling notes
 Experiment with prototypes
 Document retry policy
+Check delivery follow-up
