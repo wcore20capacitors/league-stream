@@ -1,2 +1,3 @@
 Check customs docs
 Audit database schema
+Summarize market trends
