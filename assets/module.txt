@@ -1,3 +1,4 @@
 Draft exploration notes
 Plan team retro
 Draft policy updates
+Note firewall configs
