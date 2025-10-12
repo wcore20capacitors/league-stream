@@ -1,2 +1,1 @@
-Record budget estimates
-Record certificate renewals
+Review pull requests
