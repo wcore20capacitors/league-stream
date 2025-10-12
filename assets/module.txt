@@ -1,9 +1,1 @@
-Note DPA clauses
-Record arbitration steps
-Record cache purge steps
-Draft experiment log
-List community ideas
-Review lessons learned
-Update AUC results
-Record CCPA checks
-List influencer mentions
+Plan rebranding steps
