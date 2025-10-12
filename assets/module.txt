@@ -3,3 +3,4 @@ Plan team retro
 Draft policy updates
 Note firewall configs
 Draft detection rules
+Record CI/CD pipeline
