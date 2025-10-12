@@ -7,3 +7,4 @@ Review glossary terms
 List domain records
 List OKRs
 Draft export compliance
+Update validation plan
