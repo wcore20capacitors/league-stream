@@ -5,3 +5,4 @@ Note firewall configs
 Draft detection rules
 Record CI/CD pipeline
 Note cross-browser tests
+Summarize KPIs
