@@ -1,1 +1,2 @@
 Summarize funnel metrics
+Summarize scaling notes
