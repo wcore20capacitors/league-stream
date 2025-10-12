@@ -5,3 +5,4 @@ Note cross-browser tests
 Update SSL chain
 Brainstorm feature ideas
 Summarize results
+List booth designs
