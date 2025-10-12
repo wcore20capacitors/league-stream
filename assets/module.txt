@@ -1,3 +1,4 @@
 Draft failover plan
 Draft ethics policy
 Draft retro notes
+Draft migration checklist
