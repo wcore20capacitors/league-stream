@@ -1,7 +1,1 @@
-Review pull requests
-Note compliance reminders
-Record prize details
-Update deletion logs
-Summarize QA audits
-Summarize hyperparam runs
-Update portfolio deck
+List influencer mentions
