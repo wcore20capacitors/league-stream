@@ -14,3 +14,4 @@ Review financial risks
 Summarize last meeting notes
 Update redundancy notes
 Draft PR highlights
+Track training sessions
