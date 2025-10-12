@@ -11,3 +11,4 @@ Summarize responsive fixes
 Update privacy notice
 Record competitor scans
 Review financial risks
+Summarize last meeting notes
