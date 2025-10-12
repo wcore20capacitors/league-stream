@@ -12,3 +12,4 @@ Update portfolio deck
 Summarize litigation notes
 Record infra costs
 Update contact list
+Update AUC results
