@@ -12,3 +12,4 @@ Schedule publishing plan
 Recheck security notes
 Summarize warehouse logs
 Update portfolio deck
+Note training epochs
