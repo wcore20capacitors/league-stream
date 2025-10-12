@@ -17,3 +17,4 @@ Plan capacity increase
 Review revenue data
 Note recall issues
 Note winner list
+Record cache purge steps
