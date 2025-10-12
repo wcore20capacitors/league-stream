@@ -4,3 +4,4 @@ Record labeling guide
 List action follow-ups
 Record CI/CD pipeline
 Summarize funnel metrics
+Brainstorm feature ideas
