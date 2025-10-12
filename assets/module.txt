@@ -1,8 +1,1 @@
-Summarize funnel metrics
-Summarize scaling notes
-Experiment with prototypes
-Document retry policy
-Check delivery follow-up
-Note overfit warning
-Note alignment checks
-List discount schemes
+Plan capacity increase
