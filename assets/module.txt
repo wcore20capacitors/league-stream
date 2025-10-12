@@ -2,3 +2,4 @@ Check customs docs
 Audit database schema
 Summarize market trends
 Draft consent policy
+Check backup status
