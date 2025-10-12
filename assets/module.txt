@@ -1,17 +1,1 @@
-Draft exploration notes
-Plan team retro
-Draft policy updates
-Note firewall configs
-Draft detection rules
-Record CI/CD pipeline
-Note cross-browser tests
-Summarize KPIs
-Update role matrix
-Summarize responsive fixes
-Update privacy notice
-Record competitor scans
-Review financial risks
-Summarize last meeting notes
-Update redundancy notes
-Draft PR highlights
-Track training sessions
+Note currency exposure
