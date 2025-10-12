@@ -10,3 +10,4 @@ Adjust retry logic
 Check clickthrough rate
 Log strategic initiatives
 Note training needs
+Record blue-green notes
