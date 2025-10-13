@@ -1,12 +1,1 @@
-Summarize deployment logs
-Draft QA strategy
-Review billing items
-Record F1 score
-Record risk register
-Record F1 score
-Improve logging format
-Add fallback options
-Plan PR campaign
-Prepare presentation slides
-Update recognition board
-Update AB split logs
+Record action items
