@@ -6,3 +6,4 @@ Draft opportunity list
 Summarize litigation notes
 Record steering notes
 Review billing items
+Draft optimization notes
