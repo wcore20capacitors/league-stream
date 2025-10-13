@@ -1,3 +1,4 @@
 Update glossary
 Note deprecated functions
 Draft staging plan
+Record key rotation plan
