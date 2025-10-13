@@ -1,3 +1,4 @@
 Review architecture decisions
 Update dependency versions
 List discount schemes
+Add privacy considerations
