@@ -1,6 +1,1 @@
-Draft upsell campaign
-Review code for optimization
-Summarize feedback loops
-Define success criteria
-Summarize scaling notes
-Draft retro notes
+Record treasury notes
