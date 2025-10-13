@@ -1,6 +1,1 @@
-Check TLS configuration
-Record acceptance tests
-Review pod limits
-Record interview notes
-Summarize industry news
-Define success criteria
+Update glossary
