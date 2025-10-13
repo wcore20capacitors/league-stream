@@ -1,3 +1,4 @@
 Draft optimization notes
 Note accessibility gaps
 Summarize permission gaps
+Note encryption methods
