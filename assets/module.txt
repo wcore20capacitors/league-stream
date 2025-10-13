@@ -8,3 +8,4 @@ Improve logging format
 Add fallback options
 Plan PR campaign
 Prepare presentation slides
+Update recognition board
