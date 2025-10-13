@@ -1,2 +1,3 @@
 Update glossary
 Note deprecated functions
+Draft staging plan
