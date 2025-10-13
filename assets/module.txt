@@ -1,11 +1,1 @@
-Note recall issues
-Draft blog outline
-Prepare hiring plan
-Draft access review
-Draft opportunity list
-Summarize litigation notes
-Record steering notes
-Review billing items
-Draft optimization notes
-Summarize permission gaps
-Update role matrix
+Summarize deployment logs
