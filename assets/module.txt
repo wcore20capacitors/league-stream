@@ -3,3 +3,4 @@ Draft QA strategy
 Review billing items
 Record F1 score
 Record risk register
+Record F1 score
