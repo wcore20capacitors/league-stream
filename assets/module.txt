@@ -1,9 +1,1 @@
-Review architecture decisions
-Update dependency versions
-List discount schemes
-Add privacy considerations
-Polish UI interactions
-Record restore attempt
-Update session rules
-Update hash list
-Start new iteration of the project
+List action follow-ups
