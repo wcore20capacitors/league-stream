@@ -1,2 +1,3 @@
 Review architecture decisions
 Update dependency versions
+List discount schemes
