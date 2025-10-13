@@ -1,4 +1,1 @@
-Investigate error patterns
-Update logging sinks
-Prepare case studies
-Record survey highlights
+Draft optimization notes
