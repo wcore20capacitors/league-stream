@@ -1,3 +1,4 @@
 Summarize top requests
 Expand integration tests
 Write press release draft
+Summarize deployment tests
