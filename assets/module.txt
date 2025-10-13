@@ -6,3 +6,4 @@ Polish UI interactions
 Record restore attempt
 Update session rules
 Update hash list
+Start new iteration of the project
