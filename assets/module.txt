@@ -4,3 +4,4 @@ List discount schemes
 Add privacy considerations
 Polish UI interactions
 Record restore attempt
+Update session rules
