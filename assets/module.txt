@@ -2,3 +2,4 @@ Summarize deployment logs
 Draft QA strategy
 Review billing items
 Record F1 score
+Record risk register
