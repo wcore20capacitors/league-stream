@@ -3,3 +3,4 @@ Update dependency versions
 List discount schemes
 Add privacy considerations
 Polish UI interactions
+Record restore attempt
