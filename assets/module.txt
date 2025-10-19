@@ -1,2 +1,3 @@
 Review glossary terms
 Summarize last meeting notes
+Configure firewall rules to restrict internal access
